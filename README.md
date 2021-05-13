@@ -7,5 +7,5 @@
 * https://NoteworthyAridInterfaces.rajitha19.repl.co
 
 # Without CSS
-* https://noteworthyaridinterfaces.rajitha19.repl.co/
+* https://Portfolio.rajitha19.repl.co
 
