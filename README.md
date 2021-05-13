@@ -4,8 +4,8 @@
 
 
 # With CSS
-*https://NoteworthyAridInterfaces.rajitha19.repl.co
+* https://NoteworthyAridInterfaces.rajitha19.repl.co
 
 # Without CSS
-*https://noteworthyaridinterfaces.rajitha19.repl.co/
+* https://noteworthyaridinterfaces.rajitha19.repl.co/
 
